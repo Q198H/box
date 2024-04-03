@@ -141,7 +141,7 @@
     {"name": "cl","hosts": [  "magnet"],"regex": [  "最 新",  "直 播",  "更 新"]}
   ],
   "lives": [
-    {"name": "肥猫","type": 0,"url": "https://app.luigisofia.it/app/php/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
+    {"name": "直播","type": 0,"url": "https://app.luigisofia.it/app/php/live.txt","playerType": 1,"ua": "okhttp/3.15","epg": "http://epg.112114.xyz/?ch={name}&date={date}","logo": "https://epg.112114.xyz/logo/{name}.png"
     }
   ]
 }
