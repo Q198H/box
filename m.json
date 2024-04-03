@@ -3,7 +3,7 @@
   "wallpaper": "https://深色壁纸.xxooo.cf/",
    "warningText": "",
    "sites": [
-     {"key": "csp_douban","name": "🌕┃豆瓣┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
+     {"key": "csp_douban","name": "Sofia影视┃热播","type": 3,"api": "csp_DouDou","searchable": 0,"quickSearch": 0,"filterable": 0},
     {"key": "js_豆瓣","name": "🐼┃豆瓣┃推荐","type": 3,"api": "./libs/js/drpy2.min.js","searchable": 1,"quickSearch": 0,"changeable": 0,"ext": "./libs/js/豆瓣推荐.js"},
     {"key": "csp_HAIWAI","name": "海外高清","type": 1,"api": "https://haiwaikan.com/api.php/provide/vod/at/xml/?ac=list","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
     {"key": "csp_HAIWAINEIDI","name": "海内外高清","type": 1,"api": "https://leshiapi.com/api.php/provide/vod/at/xml","searchable": 1,"quickSearch": 1,"filterable": 1,"categories": ["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
